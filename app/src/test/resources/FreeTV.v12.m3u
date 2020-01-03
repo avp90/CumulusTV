@@ -1,0 +1,155 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=ZDF" group-title="DVBC",ZDF
+http://192.168.178.20:22000/stream/ZDF
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Das%20Erste" group-title="DVBC",Das Erste
+http://192.168.178.20:22000/stream/Das%20Erste
+#EXTINF:-1 tvg-id="" tvg-name="rbb Berlin" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=rbb%20Berlin" group-title="DVBC",rbb Berlin
+http://192.168.178.20:22000/stream/rbb%20Berlin
+#EXTINF:-1 tvg-id="" tvg-name="sixx" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=sixx" group-title="DVBC",sixx
+http://192.168.178.20:22000/stream/sixx
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=TELE%205" group-title="DVBC",TELE 5
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/TELE%205
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=SAT%2E1" group-title="DVBC",SAT.1
+http://192.168.178.20:22000/stream/SAT%2E1
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=RTL" group-title="DVBC",RTL
+http://192.168.178.20:22000/stream/RTL
+#EXTINF:-1 tvg-id="" tvg-name="RTL II" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=RTL%20II" group-title="DVBC",RTL II
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/RTL%20II
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=ProSieben" group-title="DVBC",ProSieben
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/ProSieben
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=VOX" group-title="DVBC",VOX
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/VOX
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=kabel%20eins" group-title="DVBC",kabel eins
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/kabel%20eins
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben MAXX" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=ProSieben%20MAXX" group-title="DVBC",ProSieben MAXX
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/ProSieben%20MAXX
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=DMAX" group-title="DVBC",DMAX
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/DMAX
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1 Gold" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=SAT%2E1%20Gold" group-title="DVBC",SAT.1 Gold
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/SAT%2E1%20Gold
+#EXTINF:-1 tvg-id="" tvg-name="RTL NITRO" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=RTL%20NITRO" group-title="DVBC",RTL NITRO
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/NITRO
+#EXTINF:-1tvg-id="" tvg-name="Comedy Central / VIVA" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Comedy%20Central" group-title="DVBC",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Comedy%20Central
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="Musik",MTV
+#EXTVLCOPT:network-caching=1000
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE MUSIC" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=DELUXE%20MUSIC" group-title="DVBC",DELUXE MUSIC
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/DELUXE%20MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=TLC" group-title="DVBC",TLC
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/TLC
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Welt%20der%20Wunder" group-title="DVBC",Welt der Wunder
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Welt%20der%20Wunder%20TV
+#EXTINF:-1 tvg-id="" tvg-name="WELT" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=WELT" group-title="DVBC",WELT
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/WELT
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Eurosport%201" group-title="DVBC",Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Eurosport%201
+#EXTINF:-1 tvg-id="" tvg-name="SPORT1" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=SPORT1" group-title="DVBC",SPORT1
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/SPORT1
+#EXTINF:-1 tvg-id="" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=zdf%5Fneo" group-title="DVBC",ZDFneo
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/zdf%5Fneo
+#EXTINF:-1 tvg-id="" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=ZDFinfo" group-title="DVBC",ZDFinfo
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/ZDFinfo
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins Doku" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=kabel%20eins%20Doku" group-title="DVBC",kabel eins Doku
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/kabel%20eins%20Doku
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=N24" group-title="DVBC",N24 Doku
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/N24%20Doku
+#EXTINF:-1 tvg-id="" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=n%2Dtv" group-title="DVBC",n-tv
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/n%2Dtv
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=N24" group-title="DVBC",N24
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/N24
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=SUPER%20RTL" group-title="DVBC",SUPER RTL
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/SUPER%20RTL
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Disney%20Channel" group-title="DVBC",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Disney%20Channel
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Nick" group-title="DVBC",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Nick
+#EXTINF:-1 tvg-id="" tvg-name="TOGGO plus" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=TOGGO%20plus" group-title="DVBC",TOGGO plus
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/TOGGO%20plus
+#EXTINF:-1 tvg-id="" tvg-name="TV.BERLIN" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=TV%20BERLIN" group-title="DVBC",TV.BERLIN
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/TV%20BERLIN
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=arte" group-title="DVBC",ARTE
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/arte
+#EXTINF:-1 tvg-id="" tvg-name="ALEX BERLIN" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=ALEX" group-title="DVBC",ALEX BERLIN
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/ALEX%20BERLIN
+#EXTINF:-1 tvg-id="" tvg-name="HSE24" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=HSE24" group-title="DVBC",HSE24
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/HSE24
+#EXTINF:-1 tvg-id="" tvg-name="KiKA" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=KiKA" group-title="DVBC",KiKA
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/KiKA
+#EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=3sat" group-title="DVBC",3sat
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/3sat
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=PHOENIX" group-title="DVBC",PHOENIX
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/PHOENIX
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Servus%20TV" group-title="DVBC",ServusTV
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/ServusTV
+#EXTINF:-1 tvg-id="" tvg-name="Juwelo TV" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=Juwelo%20TV" group-title="DVBC",Juwelo TV
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/Juwelo%20TV
+#EXTINF:-1 tvg-id="" tvg-name="CNN International (eng)" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=CNN" group-title="DVBC",CNN International (eng)
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/CNN%20%28eng%29
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News (eng)" tvg-shift="" radio="" tvg-logo="http://sundtek.de/picons/?g=BBC%20World%20News" group-title="DVBC",BBC World News (eng)
+#EXTVLCOPT:network-caching=1000
+http://192.168.178.20:22000/stream/BBC%20World%20News%20%28eng%29
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="Nachrichten;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="DJing" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-name="DJing Animation" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-name="DJing Classics" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-name="DJing Electro Rock" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-name="DJing French touch" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-name="DJing Hedonist" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Hedonist
+https://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 tvg-name="DJing Hot Hot Hot" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 tvg-name="DJing Ibiza" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-name="DJing Karaoke" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-name="DJing Summer Vibes" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-name="DJing Underground" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-name="DJing Wild EDM" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
